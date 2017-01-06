@@ -1,0 +1,4 @@
+#Thu Jan 05 16:25:11 PST 2017
+shadowDistance=60.0
+shadowMapResolution=1024
+MC_189=true
